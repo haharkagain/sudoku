@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+}
+
+.main {
+    text-align: center;
+}
+#sudoku {
+    width: 95vh;
+    height: 95vh;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
